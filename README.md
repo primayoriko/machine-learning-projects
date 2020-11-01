@@ -2,7 +2,7 @@
 
 -------
 
-This ML project is for my final submission for Dicoding ML class.
+A notebook of hand's image recognition that gesturing paper, rock, and scissors using a convolutional neural network (CNN) model with keras and tensorflow. This ML project is for my final submission for Dicoding ML class.
 
 ## Dataset Source
 

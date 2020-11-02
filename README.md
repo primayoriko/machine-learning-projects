@@ -15,3 +15,5 @@ I am using data from [Dicoding](https://dicodingacademy.blob.core.windows.net/pi
 
 1. Tensorflow
 2. Keras
+3. Matplotlib
+4. Numpy

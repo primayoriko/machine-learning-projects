@@ -7,7 +7,7 @@ A notebook of hand's image recognition that gesturing paper, rock, and scissors 
 ## Dataset Source
 
 -------
-I am using data from [dicoding](https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip), but it seems the data itself fetched from external source.
+I am using data from [Dicoding](https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip) website, but it seems the data itself fetched from external source.
 
 ## External Library Used
 

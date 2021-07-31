@@ -2,4 +2,4 @@
 
 -------
 
-Prediction of PJM Energy Consumption Data using LSTM *(Long Short Term Memory)* in RNN *(Recurrent Neural Network)* with Windowing Technique.
+Prediction of PJM energy consumption data using LSTM *(Long Short Term Memory)* in RNN *(Recurrent Neural Network)* with Windowing Technique.
